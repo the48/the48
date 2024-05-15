@@ -4,3 +4,5 @@
 ### >>> 'Python' > 'Java'
 ### True
 ### >>> 
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arget13&langs_count=3&theme=radical" />
